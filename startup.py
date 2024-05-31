@@ -4,10 +4,10 @@ import requests
 import psutil
 import time
 
-API_KEY = '6721398630d0d3deca1d1516fc3a56428f8eea1425386eeb90fd4a9ffe9dcb6b'
-STARTUP_FOLDER = 'C:\\Users\\ESCANOR\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup'
-TELEGRAM_BOT_TOKEN = '7014754743:AAFoqAOilXuX7ZB25z8WGKtKuXkhhyBCezs'
-TELEGRAM_CHAT_ID = '1399842880'
+API_KEY = 'add your VT api '
+STARTUP_FOLDER = 'C:\\Users\\{USER}\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup'
+TELEGRAM_BOT_TOKEN = 'add your bot token '
+TELEGRAM_CHAT_ID = 'add chat id'
 checked_files = set()
 SUSPICIOUS_EXTENSIONS = {'.py', '.bat', '.sh', '.cpp'}
 
